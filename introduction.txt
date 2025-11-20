@@ -1,3 +1,4 @@
+#Brief Introduction About Myself
 Hello, my name is Malak.I am currently studying Artificial Intelligence at Mohamed V University. I am excited to learn new skills, especially in coding, Linux, and GitHub, and to apply them in practical projects.
-I am excited to continue improving my skills and sharing my projects on GitHub.
+I am excited to continue improving my skills and sharing my projects on GitHub
 
